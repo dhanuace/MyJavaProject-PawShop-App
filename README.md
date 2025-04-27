@@ -51,6 +51,6 @@ Select Clean and Build.
 Right-click on the project again.
 Select Run.
 
-6.Start Using The Paws Shop!
+6. Start Using The Paws Shop!
 The application will launch, and you can start using it by selecting your role (Manager or Cashier).
 
